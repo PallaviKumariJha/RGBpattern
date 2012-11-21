@@ -6,8 +6,10 @@
 
 <h2>Features:</h2>
 
-<p>*simple sophisticated mechanism for converting input to RGB      colour pattern.
-*colour patten generated is unique for each input.</p>
+<ul>
+<li><p>simple sophisticated mechanism for converting input to RGB colour pattern.</p></li>
+<li><p>colour patten generated is unique for each input.</p></li>
+</ul>
 
 <h2>Demo:</h2>
 
