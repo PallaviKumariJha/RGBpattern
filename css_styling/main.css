@@ -1,0 +1,41 @@
+body {
+	background: #d0e4fe;
+	width:600px;
+	margin:auto;
+	font-family:sans-serif;
+}
+
+#password {
+	float:left;
+	border:1px solid #999;
+	padding:10px;
+	height:15px;
+	width:150px;
+	margin-top:20px;
+}
+
+	.circle {	
+			float:left;
+			margin:20px 0 15px 20px;
+			border-radius: 50%;
+			display: inline-block;
+			margin-right: 20px;
+		}
+	 
+		
+		#circle1 {
+			width: 30px;
+			height: 30px;
+			background: #fff;
+		}
+		#circle2 {
+			width: 30px;
+			height: 30px;
+			background: #fff;
+		}
+		#circle3 {
+			width: 30px;
+			height: 30px;
+			background: #fff;
+		}		
+	
